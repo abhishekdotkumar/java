@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SpiralMatrix",
+      "request": "launch",
+      "mainClass": "SpiralMatrix",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
       "name": "TwoSum",
       "request": "launch",
       "mainClass": "TwoSum",
