@@ -1,0 +1,198 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "StraightLine",
+      "request": "launch",
+      "mainClass": "StraightLine",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "LLMain",
+      "request": "launch",
+      "mainClass": "LLMain",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "SubsetOfNumbers",
+      "request": "launch",
+      "mainClass": "SubsetOfNumbers",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "SubsetOfStrings",
+      "request": "launch",
+      "mainClass": "SubsetOfStrings",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "RemoveCharUsingRecursion",
+      "request": "launch",
+      "mainClass": "RemoveCharUsingRecursion",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "MergeSort",
+      "request": "launch",
+      "mainClass": "MergeSort",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "RecursionPattern",
+      "request": "launch",
+      "mainClass": "RecursionPattern",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "Code",
+      "request": "launch",
+      "mainClass": "Code",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "RecursionCountZero",
+      "request": "launch",
+      "mainClass": "RecursionCountZero",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "RecursionReverseNumber",
+      "request": "launch",
+      "mainClass": "RecursionReverseNumber",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "GCD_HCF",
+      "request": "launch",
+      "mainClass": "GCD_HCF",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "IsPrime",
+      "request": "launch",
+      "mainClass": "IsPrime",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "PowerOf2",
+      "request": "launch",
+      "mainClass": "PowerOf2",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "MagicNumber",
+      "request": "launch",
+      "mainClass": "MagicNumber",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "Operators",
+      "request": "launch",
+      "mainClass": "Operators",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "RotateArray",
+      "request": "launch",
+      "mainClass": "RotateArray",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "InverseOfArray",
+      "request": "launch",
+      "mainClass": "InverseOfArray",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "BSusingRecursion",
+      "request": "launch",
+      "mainClass": "BSusingRecursion",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "Fib",
+      "request": "launch",
+      "mainClass": "Fib",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "finddissappearedNumbers",
+      "request": "launch",
+      "mainClass": "finddissappearedNumbers",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "MissingNumber",
+      "request": "launch",
+      "mainClass": "MissingNumber",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "Sorting",
+      "request": "launch",
+      "mainClass": "Sorting",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Attach",
+      "request": "attach",
+      "hostName": "localhost",
+      "port": "<debug port of the debuggee>"
+    },
+    {
+      "type": "java",
+      "request": "attach",
+      "name": "Attach by Process ID",
+      "processId": "${command:PickJavaProcess}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "BubbleSort",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch) with Assertions Enabled",
+      "request": "launch",
+      "mainClass": "com.myapp.Main",
+      "vmArgs": "-ea"
+    }
+  ]
+}
