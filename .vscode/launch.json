@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TwoSum",
+      "request": "launch",
+      "mainClass": "TwoSum",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
       "name": "StraightLine",
       "request": "launch",
       "mainClass": "StraightLine",
