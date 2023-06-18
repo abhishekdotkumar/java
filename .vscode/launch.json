@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SetMatrixZero",
+      "request": "launch",
+      "mainClass": "SetMatrixZero",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
       "name": "SpiralMatrix",
       "request": "launch",
       "mainClass": "SpiralMatrix",
