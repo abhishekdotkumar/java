@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ProductOfArray",
+      "request": "launch",
+      "mainClass": "ProductOfArray",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
       "name": "SetMatrixZero",
       "request": "launch",
       "mainClass": "SetMatrixZero",

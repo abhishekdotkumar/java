@@ -11,7 +11,7 @@ public class SubsetOfNumbers {
     for (int i = 0; i < arr.length; i++) {
       int n = outer.size();
       for (int j = 0; j < n; j++) {
-        List<Integer> innerList = new ArrayList<Integer>();
+        // List<Integer> innerList = new ArrayList<Integer>();
 
       }
     }
