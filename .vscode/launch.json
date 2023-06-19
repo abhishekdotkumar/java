@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Anagram",
+      "request": "launch",
+      "mainClass": "Anagram",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
       "name": "FirstOccurenceofNegativeInteger",
       "request": "launch",
       "mainClass": "FirstOccurenceofNegativeInteger",
