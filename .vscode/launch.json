@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SumOfSubArray",
+      "request": "launch",
+      "mainClass": "SumOfSubArray",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
       "name": "ProductOfArray",
       "request": "launch",
       "mainClass": "ProductOfArray",
