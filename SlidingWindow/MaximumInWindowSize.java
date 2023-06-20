@@ -5,7 +5,7 @@ import java.util.Queue;
 public class MaximumInWindowSize {
 
   public static void main(String[] args) {
-    int[] arr = { 1, 3, -1, -3, 5, 3, 6, 7 };
+    int[] arr = { 1, 3, -1, -1, 2, -3, 6, 7 };
 
     int k = 3;
     int i = 0;
@@ -23,13 +23,14 @@ public class MaximumInWindowSize {
         queue.clear();
         queue.add(max);
       }
-      if (!queue.isEmpty() && queue.peek() >= arr[j]) {
+      if (!queue.isEmpty() && queue.peek() > arr[j]) {
         queue.add(arr[j]);
       }
       if (j >= k - 1) {
         res[j - k + 1] = queue.peek();
         if (queue.peek() == arr[i]) {
           queue.poll();
+          max = queue.peek();
         }
         i++;
       }
