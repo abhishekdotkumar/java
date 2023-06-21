@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LongestSubstringWithWithoutRepeatingCharacters",
+      "request": "launch",
+      "mainClass": "LongestSubstringWithWithoutRepeatingCharacters",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
       "name": "MaxSizeForSum",
       "request": "launch",
       "mainClass": "MaxSizeForSum",
