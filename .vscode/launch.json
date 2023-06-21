@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaxSizeForSum",
+      "request": "launch",
+      "mainClass": "MaxSizeForSum",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
       "name": "MaximumInWindowSize",
       "request": "launch",
       "mainClass": "MaximumInWindowSize",
