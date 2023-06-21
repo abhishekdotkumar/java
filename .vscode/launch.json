@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PickToys",
+      "request": "launch",
+      "mainClass": "PickToys",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
       "name": "LongestSubstringWithWithoutRepeatingCharacters",
       "request": "launch",
       "mainClass": "LongestSubstringWithWithoutRepeatingCharacters",

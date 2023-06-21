@@ -1,13 +1,13 @@
+import java.util.Arrays;
 import java.util.HashMap;
 
-public class LongestSubstringWithKUniqueCharacters {
+public class LongestSubstringWithoutRepeatingCharacters {
 
   public static void main(String[] args) {
-    String str = "aabacbebebe";
+    String str = "pwwkew";
     int max = 0;
     int i = 0;
-    int k = 3;
-
+    int[] ans = new int[2];
     HashMap<Character, Integer> map = new HashMap<>();
     for (int j = 0; j < str.length(); j++) {
       if (map.containsKey(str.charAt(j)) && map.get(str.charAt(j)) > 0) {
@@ -19,8 +19,8 @@ public class LongestSubstringWithKUniqueCharacters {
       } else {
         map.put(str.charAt(j), 1);
       }
-      if (map.size() > k) {
-        while (map.size() > k) {
+      if (map.size() < (j - i + 1)) {
+        while (map.size() < (j - i + 1)) {
           if (map.containsKey(str.charAt(i)) && map.get(str.charAt(i)) == 1) {
             map.remove(str.charAt(i));
           } else {
@@ -34,12 +34,14 @@ public class LongestSubstringWithKUniqueCharacters {
         }
       }
 
-      if (map.size() == k) {
+      if (map.size() == (j - i + 1)) {
         if (max < (j - i + 1)) {
           max = j - i + 1;
+          ans[0] = i;
+          ans[1] = j;
         }
       }
     }
-    System.out.println(max);
+    System.out.println(Arrays.toString(ans));
   }
 }
