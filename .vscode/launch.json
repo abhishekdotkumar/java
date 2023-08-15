@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinimumWindowSubstring",
+      "request": "launch",
+      "mainClass": "MinimumWindowSubstring",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
+      "name": "TemporaryFile",
+      "request": "launch",
+      "mainClass": "TemporaryFile",
+      "projectName": "java_8b1bdb07"
+    },
+    {
+      "type": "java",
       "name": "PickToys",
       "request": "launch",
       "mainClass": "PickToys",
