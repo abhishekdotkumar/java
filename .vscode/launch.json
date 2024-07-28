@@ -3,132 +3,6 @@
   "configurations": [
     {
       "type": "java",
-      "name": "MinimumWindowSubstring",
-      "request": "launch",
-      "mainClass": "MinimumWindowSubstring",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "TemporaryFile",
-      "request": "launch",
-      "mainClass": "TemporaryFile",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "PickToys",
-      "request": "launch",
-      "mainClass": "PickToys",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "LongestSubstringWithWithoutRepeatingCharacters",
-      "request": "launch",
-      "mainClass": "LongestSubstringWithWithoutRepeatingCharacters",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "MaxSizeForSum",
-      "request": "launch",
-      "mainClass": "MaxSizeForSum",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "MaximumInWindowSize",
-      "request": "launch",
-      "mainClass": "MaximumInWindowSize",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "Anagram",
-      "request": "launch",
-      "mainClass": "Anagram",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "FirstOccurenceofNegativeInteger",
-      "request": "launch",
-      "mainClass": "FirstOccurenceofNegativeInteger",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "SumOfSubArray",
-      "request": "launch",
-      "mainClass": "SumOfSubArray",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "ProductOfArray",
-      "request": "launch",
-      "mainClass": "ProductOfArray",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "SetMatrixZero",
-      "request": "launch",
-      "mainClass": "SetMatrixZero",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "SpiralMatrix",
-      "request": "launch",
-      "mainClass": "SpiralMatrix",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "TwoSum",
-      "request": "launch",
-      "mainClass": "TwoSum",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "StraightLine",
-      "request": "launch",
-      "mainClass": "StraightLine",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "LLMain",
-      "request": "launch",
-      "mainClass": "LLMain",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "SubsetOfNumbers",
-      "request": "launch",
-      "mainClass": "SubsetOfNumbers",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "SubsetOfStrings",
-      "request": "launch",
-      "mainClass": "SubsetOfStrings",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "RemoveCharUsingRecursion",
-      "request": "launch",
-      "mainClass": "RemoveCharUsingRecursion",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
       "name": "MergeSort",
       "request": "launch",
       "mainClass": "MergeSort",
@@ -136,154 +10,52 @@
     },
     {
       "type": "java",
-      "name": "RecursionPattern",
+      "name": "FindNumber",
       "request": "launch",
-      "mainClass": "RecursionPattern",
+      "mainClass": "FindNumber",
       "projectName": "java_8b1bdb07"
     },
     {
       "type": "java",
-      "name": "Code",
+      "name": "LinearSearch",
       "request": "launch",
-      "mainClass": "Code",
+      "mainClass": "LinearSearch",
       "projectName": "java_8b1bdb07"
     },
     {
       "type": "java",
-      "name": "RecursionCountZero",
+      "name": "CheckSort",
       "request": "launch",
-      "mainClass": "RecursionCountZero",
+      "mainClass": "CheckSort",
       "projectName": "java_8b1bdb07"
     },
     {
       "type": "java",
-      "name": "RecursionReverseNumber",
+      "name": "ReduceToZero",
       "request": "launch",
-      "mainClass": "RecursionReverseNumber",
+      "mainClass": "ReduceToZero",
       "projectName": "java_8b1bdb07"
     },
     {
       "type": "java",
-      "name": "GCD_HCF",
+      "name": "CountZero",
       "request": "launch",
-      "mainClass": "GCD_HCF",
+      "mainClass": "CountZero",
       "projectName": "java_8b1bdb07"
     },
     {
       "type": "java",
-      "name": "IsPrime",
+      "name": "ReverseOfNumber",
       "request": "launch",
-      "mainClass": "IsPrime",
+      "mainClass": "ReverseOfNumber",
       "projectName": "java_8b1bdb07"
     },
     {
       "type": "java",
-      "name": "PowerOf2",
+      "name": "Factorial",
       "request": "launch",
-      "mainClass": "PowerOf2",
+      "mainClass": "Factorial",
       "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "MagicNumber",
-      "request": "launch",
-      "mainClass": "MagicNumber",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "Operators",
-      "request": "launch",
-      "mainClass": "Operators",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "RotateArray",
-      "request": "launch",
-      "mainClass": "RotateArray",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "InverseOfArray",
-      "request": "launch",
-      "mainClass": "InverseOfArray",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "BSusingRecursion",
-      "request": "launch",
-      "mainClass": "BSusingRecursion",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "Fib",
-      "request": "launch",
-      "mainClass": "Fib",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "finddissappearedNumbers",
-      "request": "launch",
-      "mainClass": "finddissappearedNumbers",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "MissingNumber",
-      "request": "launch",
-      "mainClass": "MissingNumber",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "Sorting",
-      "request": "launch",
-      "mainClass": "Sorting",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "Launch Current File",
-      "request": "launch",
-      "mainClass": "${file}"
-    },
-    {
-      "type": "java",
-      "name": "Attach",
-      "request": "attach",
-      "hostName": "localhost",
-      "port": "<debug port of the debuggee>"
-    },
-    {
-      "type": "java",
-      "request": "attach",
-      "name": "Attach by Process ID",
-      "processId": "${command:PickJavaProcess}"
-    },
-    {
-      "type": "java",
-      "name": "Launch Current File",
-      "request": "launch",
-      "mainClass": "${file}"
-    },
-    {
-      "type": "java",
-      "name": "BubbleSort",
-      "request": "launch",
-      "mainClass": "BubbleSort",
-      "projectName": "java_8b1bdb07"
-    },
-    {
-      "type": "java",
-      "name": "Debug (Launch) with Assertions Enabled",
-      "request": "launch",
-      "mainClass": "com.myapp.Main",
-      "vmArgs": "-ea"
     }
   ]
 }
