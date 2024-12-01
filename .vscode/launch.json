@@ -3,6 +3,104 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinSubsetSumDiff",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.MinSubsetSumDiff",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "CountSumPartition",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.CountSumPartition",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "EqualSumPartition",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.EqualSumPartition",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "SubsetSum",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.SubsetSum",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "Knapsack",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.Knapsack",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "HappyNumber",
+      "request": "launch",
+      "mainClass": "Easy.HappyNumber",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "LinkedList.Demo",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "Josephus",
+      "request": "launch",
+      "mainClass": "Josephus",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "Demo",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "Easy.BubbleSort",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "Ceiling",
+      "request": "launch",
+      "mainClass": "Easy.Ceiling",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "AgnosticBinarySearch",
+      "request": "launch",
+      "mainClass": "Easy.AgnosticBinarySearch",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "Easy",
+      "request": "launch",
+      "mainClass": "Easy.Easy",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "LongestSubstringWithKUniqueCharacters",
+      "request": "launch",
+      "mainClass": "LongestSubstringWithKUniqueCharacters",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
       "name": "MergeSort",
       "request": "launch",
       "mainClass": "MergeSort",
