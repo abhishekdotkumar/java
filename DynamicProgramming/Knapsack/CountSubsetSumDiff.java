@@ -1,9 +1,18 @@
-package DynamicProgramming;
+package DynamicProgramming.Knapsack;
 
-public class CountSumPartition {
+public class CountSubsetSumDiff {
     public static void main(String[] args) {
-        int[] arr = { 2, 3, 5, 8, 10 };
-        int sum = 10;
+        int[] arr = { 1, 1, 2, 3 };
+        int diff = 1;
+
+        int sum = 0;
+        for (int i = 0; i < arr.length; i++) {
+            sum += arr[i];
+        }
+
+        int res = (sum + diff) / 2;
+
+        sum = res;
 
         int[][] t = new int[arr.length + 1][sum + 1];
 

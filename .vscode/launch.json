@@ -3,6 +3,132 @@
   "configurations": [
     {
       "type": "java",
+      "name": "EvaluateExpression",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.MCM.EvaluateExpression",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "PalindromePartitioning",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.MCM.PalindromePartitioning",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "MCM",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.MCM.MCM",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "MinNoOfDeletionforPalindrome",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.LCS.MinNoOfDeletionforPalindrome",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "SeqPatternMatching",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.LCS.SeqPatternMatching",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "LongestRepeatingSubSeq",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.LCS.LongestRepeatingSubSeq",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "PrintShortComSubseq",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.LCS.PrintShortComSubseq",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "PalindromicSubSeq",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.LCS.PalindromicSubSeq",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "InsDelConvertStrAtoB",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.LCS.InsDelConvertStrAtoB",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "ShortestCommonSubseq",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.LCS.ShortestCommonSubseq",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "PrintLongComSubseq",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.LCS.PrintLongComSubseq",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "LongestCommonSubstring",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.LCS.LongestCommonSubstring",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "LongestCommonSubseq",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.LCS.LongestCommonSubseq",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "CoinChange2",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.Unbounded.CoinChange2",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "CoinChange",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.Unbounded.CoinChange",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "RodCutting",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.Unbounded.RodCutting",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "HackerRank.Demo",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "CountSubsetSumDiff",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.CountSubsetSumDiff",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
       "name": "MinSubsetSumDiff",
       "request": "launch",
       "mainClass": "DynamicProgramming.MinSubsetSumDiff",

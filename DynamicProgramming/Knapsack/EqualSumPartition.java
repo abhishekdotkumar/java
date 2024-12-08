@@ -1,4 +1,4 @@
-package DynamicProgramming;
+package DynamicProgramming.Knapsack;
 
 public class EqualSumPartition {
     public static void main(String[] args) {
