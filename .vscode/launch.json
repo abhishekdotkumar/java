@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DFS_3_IN_1",
+      "request": "launch",
+      "mainClass": "BinaryTree.DFS_3_IN_1",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "DFSIterative",
+      "request": "launch",
+      "mainClass": "BinaryTree.DFSIterative",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "BFS",
+      "request": "launch",
+      "mainClass": "BinaryTree.BFS",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "DFS",
+      "request": "launch",
+      "mainClass": "BinaryTree.DFS",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
+      "name": "EggDropping",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.MCM.EggDropping",
+      "projectName": "JAVA_6b63dae2"
+    },
+    {
+      "type": "java",
       "name": "EvaluateExpression",
       "request": "launch",
       "mainClass": "DynamicProgramming.MCM.EvaluateExpression",
